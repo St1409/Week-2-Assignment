@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My First Web Page</title>
+    </head>
+    <body>
+        <header>
+            <h1> My Week One Assignments</h1>
+            <p>Click a task number to see the tasks</p>
+        </header>
+        <main> 
+            <section>
+                <h2>Tasks</h2>
+                <ul>
+                    <li>
+                        <a href="Task 1.html">
+                            Task 1
+                        </a>
+                    </li>
+                    <li>
+                        <a href="Task 2.html">
+                            Task 2
+                        </a>
+                    </li>
+                    <li>
+                        <a href="Task 3.html">
+                            Task 3
+                        </a>
+                    </li>
+                    <li>
+                        <a href="Task 4.html">
+                            Task 4
+                        </a>
+                    </li>
+                </ul>
+            </section>
+        </main>
+    </body>
+</html>
+
