@@ -1,0 +1,31 @@
+/* Background Color */
+body {
+    background-color: #f0f8ff;
+
+    /* Text Color */
+    color: #333333;
+
+    /* Font Family */
+    font-family: Roboto, sans-serif;
+
+    /* Font Size */
+    font-size: 18px;
+}
+
+/* Borders */
+p {
+    border: 2px solid #4CAF50;
+    padding: 10px;
+}
+
+/* Links */
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+/* Rounded Corners on Images */
+img {
+    border: 3px solid #555;
+    border-radius: 15px;
+}
